@@ -4,6 +4,3 @@ Web-worx is a symposium event conducted in our College(SVCE). We won the first p
 
 ## Demo Video
 
-<video>
-<source src="Demo Video/Demo.mp4"/>
-</video>
